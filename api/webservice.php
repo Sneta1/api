@@ -1,6 +1,6 @@
 <?php
  
-// get database connection
+//get database connection
 include_once 'config.php';
  
 // instantiate user object

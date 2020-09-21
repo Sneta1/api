@@ -1,7 +1,7 @@
 <?php
 class Database{
  
-    // specify your own database credentials
+    // specify database credentials
     private $host = "localhost";
     private $db_name = "reminders";
     private $username = "root";

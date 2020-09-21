@@ -10,7 +10,7 @@ class Reminder{
     public $timee;
     public $message;
  
-    // constructor with $db as database connection
+    // constructor with $db as database conn
     public function __construct($db){
         $this->conn = $db;
     }
